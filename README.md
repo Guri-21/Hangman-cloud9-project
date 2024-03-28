@@ -25,7 +25,4 @@ FEATURES:
 >VERSION 3:
 -points
 -player statistics
-
->VERSION 4:
--live timer
 -word themes for different difficulty levels
