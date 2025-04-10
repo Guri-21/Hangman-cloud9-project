@@ -6,11 +6,11 @@ This repository contains the code for a Hangman game implemented in Python. The 
 
 TEAM MEMBERS:
 
->Manager: Armaanpreet Singh
+>Manager: A........t S......h
 
 >Developer: Gurnoor Partap Singh
 
->Tester: Arjun Singla
+>Tester: A.....n S.....a
 
 INSTRUCTIONS FOR RUNNING THE GAME:
 
